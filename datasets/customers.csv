@@ -1,0 +1,7 @@
+customer_id,name,email,country,created_date
+1,John Doe,john@gmail.com,USA,2024-01-15
+2,Alice Smith,alice@gmail.com,UK,2024-02-10
+3,Rahul Kumar,rahul@gmail.com,India,2024-03-05
+4,Sara Lee,sara@gmail.com,USA,2024-03-18
+5,Rahul Kumar,rahul@gmail.com,India,2024-03-05
+6,,missing@gmail.com,Canada,2024-05-12

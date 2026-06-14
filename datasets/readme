@@ -1,0 +1,24 @@
+# E-Commerce Lakehouse Pipeline
+
+## Tech Stack
+- AWS S3
+- Databricks
+- PySpark
+- Delta Lake
+- SQL
+
+## Architecture
+
+Raw Data (S3)
+      |
+      v
+Bronze Layer
+      |
+      v
+Silver Layer
+      |
+      v
+Gold Layer
+      |
+      v
+Analytics Dashboard

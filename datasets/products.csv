@@ -1,0 +1,6 @@
+product_id,product_name,category,price
+101,Laptop,Electronics,70000
+102,Mobile,Electronics,30000
+103,Chair,Furniture,5000
+104,Table,Furniture,-1000
+105,Headphones,Electronics,5000
